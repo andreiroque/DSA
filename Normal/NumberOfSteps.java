@@ -1,4 +1,4 @@
-package Arrays;
+package Normal;
 
 public class NumberOfSteps {
   
